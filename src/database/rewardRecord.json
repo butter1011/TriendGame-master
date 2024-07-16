@@ -1,0 +1,40 @@
+[
+  {
+    "id" : 1,
+    "price" : 100,
+    "priceTag": "100",
+    "isAwarded" : true
+  },
+  {
+    "id" : 2,
+    "price" : 200,
+    "priceTag": "200",
+    "isAwarded" : true
+  },{
+    "id" : 3,
+    "price" : 400,
+    "priceTag": "400",
+    "isAwarded" : true
+  },{
+    "id" : 4,
+    "price" : 800,
+    "priceTag": "800",
+    "isAwarded" : false
+  },{
+    "id" : 5,
+    "price" : 1600,
+    "priceTag": "1.6K",
+    "isAwarded" : false
+  },{
+    "id" : 6,
+    "price" : 3200,
+    "priceTag": "3.2K",
+    "isAwarded" : false
+  },
+  {
+    "id" : 7,
+    "price" : 5000,
+    "priceTag": "5K",
+    "isAwarded" : false
+  }
+]

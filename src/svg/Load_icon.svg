@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104.25" height="184.013" viewBox="0 0 104.25 184.013">
+  <g id="Group_1" data-name="Group 1" transform="translate(2.189 -40)" style="isolation: isolate">
+    <path id="Loading_I" data-name="Loading I" d="M0,40Z" stroke="#000" stroke-width="10"/>
+    <g id="Group_2134" data-name="Group 2134" transform="translate(-2.189 47.896)" style="isolation: isolate">
+      <g id="Group" style="isolation: isolate">
+        <path id="Vector" d="M22.521,63.26a40.713,40.713,0,0,1,40.74-40.74V0A63.283,63.283,0,0,0,0,63.26,66.606,66.606,0,0,0,6.579,91.6s4.555,13.158,23.533,37.45c18.725,24.039,32.389,46.56,32.9,47.066V131.835c-8.1-14.677-27.835-29.353-36.438-51.115A41.107,41.107,0,0,1,22.521,63.26Z" fill="#00ffcf" style="isolation: isolate"/>
+      </g>
+      <path id="Vector-2" data-name="Vector" d="M0,24.5A24.26,24.26,0,0,0,24,49V0A24.26,24.26,0,0,0,0,24.5Z" transform="translate(39 39)" fill="#ff00e5" style="isolation: isolate"/>
+      <path id="Vector-3" data-name="Vector" d="M0,109.479c.253-.253,9.37-14.335,21.516-29.012A141.089,141.089,0,0,0,32.9,65.032a40.575,40.575,0,0,0,7.844-20.243A30.628,30.628,0,0,0,41,39.98a36.425,36.425,0,0,0-5.061-18.725A40.6,40.6,0,0,0,.007,0V16.7a24.292,24.292,0,0,1,0,48.584V81.732L0,82.4Z" transform="translate(63.25 22.521)" fill="#f6ee24" style="isolation: isolate"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.079" y1="0.885" x2="0.902" y2="0.158" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b5053c"/>
+      <stop offset="0.233" stop-color="#c90441"/>
+      <stop offset="0.737" stop-color="#f0014b"/>
+      <stop offset="1" stop-color="#ff004f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.067" y1="0.896" x2="0.934" y2="0.13" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b2c9"/>
+      <stop offset="0.283" stop-color="#00c8d4"/>
+      <stop offset="0.741" stop-color="#00e6e4"/>
+      <stop offset="1" stop-color="#00f1ea"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.497" y1="1.391" x2="1.527" y2="-0.39" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dde3e4"/>
+      <stop offset="1" stop-color="#fcf7f7"/>
+    </linearGradient>
+  </defs>
+  <g id="socials" transform="translate(0 0)" style="isolation: isolate">
+    <path id="Rectangle_1" data-name="Rectangle 1" d="M0,28A28,28,0,1,1,28,56,28,28,0,0,1,0,28Z" fill="#111" style="isolation: isolate"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(14 12.6)" style="isolation: isolate">
+      <path id="Vector" d="M23.752,6.8A7.356,7.356,0,0,1,21.366,5.2a7.356,7.356,0,0,1-1.594-2.386A7.355,7.355,0,0,1,19.212,0H13.957V20.576a4.468,4.468,0,1,1-3.206-4.291V11.177a9.484,9.484,0,1,0,8.216,9.4l.153-10.4a12.552,12.552,0,0,0,7.447,2.434V7.355A7.355,7.355,0,0,1,23.752,6.8Z" transform="translate(1.389 1.432)" fill="url(#linear-gradient)" style="isolation: isolate"/>
+      <path id="Vector-2" data-name="Vector" d="M21.366,5.2A7.355,7.355,0,0,1,19.212,0H13.957V20.576a4.468,4.468,0,1,1-3.206-4.291V11.177a9.484,9.484,0,1,0,8.216,9.4l.153-10.4a12.552,12.552,0,0,0,7.447,2.434V7.355A7.355,7.355,0,0,1,21.366,5.2Z" fill="url(#linear-gradient-2)" style="isolation: isolate"/>
+      <path id="Vector-3" data-name="Vector" d="M20.642,4.36A7.353,7.353,0,0,1,17.961,0H13.956V20.576a4.474,4.474,0,0,1-8.3,2.319,4.474,4.474,0,0,1,3.7-8.042V11.095A9.483,9.483,0,0,0,2.019,26.426a9.483,9.483,0,0,0,15.558-7.281l.153-10.4a12.552,12.552,0,0,0,7.447,2.434V7.223A7.355,7.355,0,0,1,20.642,4.36Z" transform="translate(1.39 1.432)" fill="url(#linear-gradient-3)" style="isolation: isolate"/>
+    </g>
+  </g>
+</svg>

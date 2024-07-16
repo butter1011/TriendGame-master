@@ -1,0 +1,29 @@
+.index_bg {
+    background: url(../../img/ligin_bg.png);
+    background-size: cover;
+}
+
+.login_bg {
+    background: url(../../svg/Group2.png);
+    background-size: cover;
+}
+
+.review_bg {
+    background: url(../../svg/Group3.png);
+    background-size: cover;
+}
+
+.head_bg {
+    background: url(../../svg/head_bg.png);
+    background-size: cover;
+}
+
+.image_style {
+    background-color: black;
+    margin-top: 64px;
+    margin-left: 24px;
+    margin-right: 24px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+}

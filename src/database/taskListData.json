@@ -1,0 +1,10 @@
+{
+    "taskList": [{ "icon": "/taskIcon/1.svg", "siteName": "Invite frens", "payVal": "+4.000 TP per invite", "taskState": ["START", "CLAIM", "CLAIMED"] },
+        { "icon": "/taskIcon/2.svg", "siteName": "Join Triend on X", "payVal": "+3.500 TP", "taskState": ["START", "CLAIM", "CLAIMED"] },
+        { "icon": "/taskIcon/3.svg", "siteName": "Join Triend’s Discord", "payVal": "+3.500 TP", "taskState": ["START", "CLAIM", "CLAIMED"] },
+        { "icon": "/taskIcon/4.svg", "siteName": "Subscribe to Telegram", "payVal": "+4.000 TP", "taskState": ["START", "CLAIM", "CLAIMED"] },
+        { "icon": "/taskIcon/5.svg", "siteName": "Check out our website", "payVal": "+3.500 TP", "taskState": ["START", "CLAIM", "CLAIMED"] },
+        { "icon": "/taskIcon/6.svg", "siteName": "Join Triend on Instagram", "payVal": "+3.500 TP", "taskState": ["START", "CLAIM", "CLAIMED"] },
+        { "icon": "/taskIcon/7.svg", "siteName": "Join Triend on Tik Tok", "payVal": "+3.500 TP", "taskState": ["START", "CLAIM", "CLAIMED"] }
+    ]
+}

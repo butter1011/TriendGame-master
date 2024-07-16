@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame_14" data-name="Frame 14" width="56" height="56" rx="28" style="isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="Frame_14-2" data-name="Frame 14" clip-path="url(#clip-path)" style="isolation: isolate">
+    <rect id="Frame_14-3" data-name="Frame 14" width="56" height="56" rx="28" style="isolation: isolate"/>
+    <g id="Group_2134" data-name="Group 2134" transform="translate(17 10)" style="isolation: isolate">
+      <g id="Group" style="isolation: isolate">
+        <path id="Vector" d="M4.6,12.931A8.322,8.322,0,0,1,12.931,4.6V0A12.936,12.936,0,0,0,0,12.931a13.615,13.615,0,0,0,1.345,5.793s.931,2.69,4.81,7.655C9.983,31.293,12.776,35.9,12.879,36V26.948c-1.655-3-5.69-6-7.448-10.448A8.4,8.4,0,0,1,4.6,12.931Z" fill="#00ffcf" style="isolation: isolate"/>
+      </g>
+      <path id="Vector-2" data-name="Vector" d="M0,5.008a4.959,4.959,0,0,0,4.906,5.008V0A4.959,4.959,0,0,0,0,5.008Z" transform="translate(7.972 7.972)" fill="#ff00e5" style="isolation: isolate"/>
+      <path id="Vector-3" data-name="Vector" d="M0,22.379c.052-.052,1.915-2.93,4.4-5.93a28.851,28.851,0,0,0,2.328-3.155,8.294,8.294,0,0,0,1.6-4.138,6.259,6.259,0,0,0,.052-.983A7.445,7.445,0,0,0,7.346,4.345,8.3,8.3,0,0,0,0,0V3.414A4.967,4.967,0,0,1,4.967,8.379,4.967,4.967,0,0,1,0,13.345v9.034Z" transform="translate(12.929 4.603)" fill="#f6ee24" style="isolation: isolate"/>
+    </g>
+  </g>
+</svg>

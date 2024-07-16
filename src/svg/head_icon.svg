@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="257" height="81.048" viewBox="0 0 257 81.048">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame" width="257" height="81.048" fill="none" style="isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="Frame-2" data-name="Frame" clip-path="url(#clip-path)" style="isolation: isolate">
+    <rect id="Frame-3" data-name="Frame" width="257" height="81.048" fill="none" style="isolation: isolate"/>
+    <g id="Group" style="isolation: isolate">
+      <g id="Group-2" data-name="Group" transform="translate(60.902 26.783)" style="isolation: isolate">
+        <path id="Vector" d="M33.653.7V5.706c0,.466-.117.7-.7.7H21.892V28.18c0,.582-.233.815-.7.815H12.576c-.582,0-.7-.233-.7-.815V6.4H.815C.233,6.4,0,6.172,0,5.706V.7C0,.233.233,0,.815,0h32.14C33.537,0,33.653.233,33.653.7Z" fill="#fff" style="isolation: isolate"/>
+        <path id="Vector-2" data-name="Vector" d="M33.653,8.384c0,3.493-3.144,6.521-7.8,7.22-.349,0-.582.116-.582.233s.116.233.582.233A4.936,4.936,0,0,1,30.626,19.8c.582,2.445,1.281,2.911,3.61,2.911.582,0,.7.233.7.7V28.3c0,.582-.7,1.164-3.726,1.164-6.87,0-9.549-1.514-10.48-6.4-.466-2.795-1.63-4.192-4.891-4.192H10.014V28.18c0,.582-.233.815-.815.815H.7c-.582,0-.7-.233-.7-.815V.815C0,.233.233,0,.7,0H18.282C27.6,0,33.653,2.562,33.653,8.384ZM17.933,12.926c3.028,0,4.891-1.281,4.891-3.493s-1.863-3.377-4.891-3.377H9.9v6.87Z" transform="translate(37.263 0)" fill="#fff" style="isolation: isolate"/>
+        <path id="Vector-3" data-name="Vector" d="M10.014.815V28.18c0,.582-.116.815-.7.815H.7c-.582,0-.7-.233-.7-.815V.815C0,.233.233,0,.7,0H9.316C9.9,0,10.014.233,10.014.815Z" transform="translate(75.575 0)" fill="#fff" style="isolation: isolate"/>
+        <path id="Vector-4" data-name="Vector" d="M29.578.7V5.357c0,.466-.233.7-.815.7H10.014v5.007H24.92c.7,0,.815.233.815.7v4.658c0,.466-.116.7-.815.7H10.014v5.706H28.763c.582,0,.815.233.815.7V28.18c0,.466-.233.7-.815.7H.7c-.582,0-.7-.233-.7-.815V.815C0,.233.233,0,.7,0H28.763C29.345,0,29.578.233,29.578.7Z" transform="translate(90.829 0)" fill="#fff" style="isolation: isolate"/>
+        <path id="Vector-5" data-name="Vector" d="M13.741.7l8.151,14.323c.233.582.466,1.281.582,1.281s.117-.7.117-1.281V.815c0-.582.233-.815.7-.815h8.268c.582,0,.7.233.7.815V28.18c0,.582-.116.815-.7.815H20.728a.907.907,0,0,1-1.048-.7l-9.2-16.536c-.233-.466-.466-1.281-.582-1.281-.233,0-.233.582-.233,1.514V28.18c0,.582-.233.815-.7.815H.7c-.582,0-.7-.233-.7-.815V.815C0,.233.233,0,.7,0H12.693A1.018,1.018,0,0,1,13.741.7Z" transform="translate(124.715 0)" fill="#fff" style="isolation: isolate"/>
+        <path id="Vector-6" data-name="Vector" d="M33.77,14.556c0,7.918-6.637,14.556-16.885,14.556H.7c-.582,0-.7-.233-.7-.815V.815C0,.233.233,0,.7,0H16.885C27.016,0,33.77,6.638,33.77,14.556ZM16.536,22.591c3.959,0,6.637-2.329,6.637-8.151S20.495,6.4,16.536,6.4H10.014V22.591Z" transform="translate(162.328 0)" fill="#fff" style="isolation: isolate"/>
+      </g>
+      <g id="Group-3" data-name="Group" style="isolation: isolate">
+        <g id="Group-4" data-name="Group" style="isolation: isolate">
+          <path id="Vector-7" data-name="Vector" d="M10.364,29.112A18.736,18.736,0,0,1,29.112,10.364V0A29.122,29.122,0,0,0,0,29.112,30.652,30.652,0,0,0,3.028,42.154s2.1,6.055,10.83,17.234C22.474,70.451,28.763,80.815,29,81.048V60.669c-3.726-6.754-12.809-13.508-16.769-23.522A18.917,18.917,0,0,1,10.364,29.112Z" fill="#00ffcf" style="isolation: isolate"/>
+        </g>
+        <g id="Group-5" data-name="Group" transform="translate(17.933 10.364)" style="isolation: isolate">
+          <path id="Vector-8" data-name="Vector" d="M0,11.179A11.182,11.182,0,0,0,11.179,22.358V0A11.182,11.182,0,0,0,0,11.179Z" transform="translate(0 7.569)" fill="#faff00" style="isolation: isolate"/>
+          <path id="Vector-9" data-name="Vector" d="M.116,50.305A163.946,163.946,0,0,1,9.9,37.03a64.925,64.925,0,0,0,5.24-7.1,18.672,18.672,0,0,0,3.61-9.316,14.1,14.1,0,0,0,.116-2.212,16.762,16.762,0,0,0-2.329-8.617A18.684,18.684,0,0,0,0,0V7.686A11.182,11.182,0,0,1,11.179,18.865,11.182,11.182,0,0,1,0,30.044v7.569l.116.233Z" transform="translate(11.063 0)" fill="#ff0092" style="isolation: isolate"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

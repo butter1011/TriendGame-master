@@ -1,0 +1,12 @@
+{
+    "scoreDatas": [{ "number": "/avatar/goldmedal.svg", "avatar": "/avatar/1.svg", "name": "Daniel", "score": "220.650 TP" },
+        { "number": "/avatar/silvermedal.svg", "avatar": "/avatar/2.svg", "name": "Adriana N.", "score": "210.500 TP" },
+        { "number": "/avatar/brondsmedal.svg", "avatar": "/avatar/3.svg", "name": "Gladys", "score": "122.400 TP" },
+        { "number": "4.", "avatar": "/avatar/4.svg", "name": "Brooklyn Simmons", "score": "110.300 TP" },
+        { "number": "5.", "avatar": "/avatar/5.svg", "name": "Wade Warren", "score": "88.222 TP" },
+        { "number": "6.", "avatar": "/avatar/6.svg", "name": "Kyle", "score": "86.000 TP" },
+        { "number": "7.", "avatar": "/avatar/7.svg", "name": "Angel K.", "score": "50.100 TP" },
+        { "number": "8.", "avatar": "/avatar/8.svg", "name": "Cameron", "score": "33.200 TP" },
+        { "number": "9.", "avatar": "/avatar/9.svg", "name": "Daniel", "score": "220.650TP" }
+    ]
+}
